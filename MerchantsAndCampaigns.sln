@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantsAndCampaigns", "MerchantsAndCampaigns\MerchantsAndCampaigns.csproj", "{2175F27E-BB7B-490C-8F18-3BCD25710D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2175F27E-BB7B-490C-8F18-3BCD25710D56}.Debug|x86.ActiveCfg = Debug|x86
+		{2175F27E-BB7B-490C-8F18-3BCD25710D56}.Debug|x86.Build.0 = Debug|x86
+		{2175F27E-BB7B-490C-8F18-3BCD25710D56}.Release|x86.ActiveCfg = Release|x86
+		{2175F27E-BB7B-490C-8F18-3BCD25710D56}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = 
+		$1.IncludeInNewFiles = True
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
